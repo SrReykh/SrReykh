@@ -1,4 +1,4 @@
-# Hi There!
+# Welcome to my Profile! / Bem-vindo ao meu Perfil!
 ## About me. (EN-US)
 My name is Reynan, borned and living in Brazil, speak Portuguese, and English (although i'm not fluent). I code since 2022, and developed the interest because of a friend who showed me coding years ago. Learning System Development at 'ETEC'. Currently i know HTML, CSS and looking foward to learn JavaScript and Python.
 
@@ -16,3 +16,4 @@ Meu nome é Reynan, nasci e resido no Brasil, falo Português, e Inglês (entret
 - Mouse: **Logitech G203**
 - Monitor: **AOC 60hz 1366x768**
 - Headset: **Generic**
+- OS: **Windows 10, Ubuntu**
