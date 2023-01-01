@@ -53,10 +53,10 @@ Temos um longo caminho pela frente!
 - RAM: **8GB 1x8 2400MHz**
 - Motherboard: **H110M-CS/BR ASUS**
 - Storage: SSD BX500 1TB
-- Power: Supply **430W Thermaltake 80 Plus**
+- Power Supply: **430W Thermaltake 80 Plus**
 - Keyboard: **Redragon Kumara K552 Switch Blue** 
 - Mouse: **Logitech G203**
 - Monitor: **AOC 60hz 1366x768**
-- Headset: **Generic**
+- Headset: **HyperX Cloud Stinger Core PC**
 - OS: **Windows 10, Ubuntu**
 
