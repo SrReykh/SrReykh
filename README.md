@@ -1,5 +1,5 @@
-# Amigos e amigas, prazer, meu nome é Reynan :*
-Sou uma pessoa que gosta de passar o seu tempo programando e se divertindo dentro dos nossos imensos códigos
+# Amigos e amigas, prazer, meu nome é Reynan.
+Sou uma pessoa que gosta de passar o seu tempo programando e se divertindo dentro dos nossos imensos códigos.
 
 ## Habilidades 
 
@@ -52,7 +52,7 @@ Temos um longo caminho pela frente!
 - GPU: **GTX 1050 TI 4GB**
 - RAM: **8GB 1x8 2400MHz**
 - Motherboard: **H110M-CS/BR ASUS**
-- Disk: **1TB HDD**
+- Storage: SSD BX500 1TB
 - Power: Supply **430W Thermaltake 80 Plus**
 - Keyboard: **Redragon Kumara K552 Switch Blue** 
 - Mouse: **Logitech G203**
