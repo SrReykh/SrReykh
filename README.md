@@ -1,5 +1,4 @@
-# Amigos e amigas, prazer, meu nome é Reynan.
-Sou uma pessoa que gosta de passar o seu tempo programando e se divertindo dentro dos nossos imensos códigos.
+# It's me! Reynan
 
 ## Habilidades 
 
