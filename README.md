@@ -30,28 +30,16 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrReykh&show_icons=true&theme=vision-friendly-dark)
   
 </div>
-
-<div align='center'>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SrReykh&theme=blue-green)
-
-</div>  
-  
+   
 <br>
-Atualmente, gosto muito do Front-end, adoro fazer páginas, sites, pensar em vários layouts, e vir em mente várias ideias de design.
-<br>
-<b>MAS</b>, pretendo futuramente me aprofundar no Back-end como como Java, Python, C, C++.
-<br> 
-Temos um longo caminho pela frente!
-
-
+Atualmente, gosto muito do Front-end, frequentemente mexo com HTML, CSS e JavaScript. Também venho estudando back-end.
 
 ### PC CONFIG
 - CPU: **G4560 3,5GHz**
 - GPU: **GTX 1050 TI 4GB**
 - RAM: **8GB 1x8 2400MHz**
 - Motherboard: **H110M-CS/BR ASUS**
-- Storage: SSD BX500 1TB
+- Storage: **SSD BX500 1TB**
 - Power Supply: **430W Thermaltake 80 Plus**
 - Keyboard: **Redragon Kumara K552 Switch Blue** 
 - Mouse: **Logitech G203**
