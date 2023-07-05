@@ -7,7 +7,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 ### IDE's & GUI's:
@@ -33,17 +32,3 @@
    
 <br>
 Atualmente, gosto muito do Front-end, frequentemente mexo com HTML, CSS e JavaScript. Também venho estudando back-end.
-
-### PC CONFIG
-- CPU: **G4560 3,5GHz**
-- GPU: **GTX 1050 TI 4GB**
-- RAM: **8GB 1x8 2400MHz**
-- Motherboard: **H110M-CS/BR ASUS**
-- Storage: **SSD BX500 1TB**
-- Power Supply: **430W Thermaltake 80 Plus**
-- Keyboard: **Redragon Kumara K552 Switch Blue** 
-- Mouse: **Logitech G203**
-- Monitor: **AOC 60hz 1366x768**
-- Headset: **HyperX Cloud Stinger Core PC**
-- OS: **Windows 10, Ubuntu**
-
