@@ -33,4 +33,3 @@
 </div>
    
 <br>
-Atualmente, gosto muito do Front-end, frequentemente mexo com HTML, CSS e JavaScript. Também venho estudando back-end.
