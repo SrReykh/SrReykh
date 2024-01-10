@@ -1,5 +1,4 @@
-# It's me! Reynan
-
+Sou front-end developer.
 ## Habilidades 
 
 ### Linguagens & Frameworks
